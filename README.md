@@ -10,4 +10,5 @@ The promise will resolve `true` and the album will be deleted without deleting i
 
 **Actual behavior**:
 A second native alert is triggered asking to confirm asset deletion:
+
 <img width="320" alt="image" src="https://github.com/stevengoldberg/expo-media-library-delete-bug/assets/2230992/02073762-68aa-4573-9405-fc3a437dc2d3">
